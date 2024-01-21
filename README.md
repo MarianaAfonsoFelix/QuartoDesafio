@@ -24,3 +24,6 @@ Observações:
 Fique à vontade para incrementar o código, ele é seu!
 
 Divirta-se programando e boa sorte! :) #LetsBora
+
+![image](https://github.com/MarianaAfonsoFelix/QuartoDesafio/assets/40126162/7fd6350f-73f5-4360-8eff-1b03cc181b10)
+
