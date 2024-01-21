@@ -1,0 +1,15 @@
+C:\EstudoCSharp\QuartoDesafio\Desafio\bin\Debug\net7.0\Desafio.exe
+C:\EstudoCSharp\QuartoDesafio\Desafio\bin\Debug\net7.0\Desafio.deps.json
+C:\EstudoCSharp\QuartoDesafio\Desafio\bin\Debug\net7.0\Desafio.runtimeconfig.json
+C:\EstudoCSharp\QuartoDesafio\Desafio\bin\Debug\net7.0\Desafio.dll
+C:\EstudoCSharp\QuartoDesafio\Desafio\bin\Debug\net7.0\Desafio.pdb
+C:\EstudoCSharp\QuartoDesafio\Desafio\obj\Debug\net7.0\Desafio.csproj.AssemblyReference.cache
+C:\EstudoCSharp\QuartoDesafio\Desafio\obj\Debug\net7.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoCSharp\QuartoDesafio\Desafio\obj\Debug\net7.0\Desafio.AssemblyInfoInputs.cache
+C:\EstudoCSharp\QuartoDesafio\Desafio\obj\Debug\net7.0\Desafio.AssemblyInfo.cs
+C:\EstudoCSharp\QuartoDesafio\Desafio\obj\Debug\net7.0\Desafio.csproj.CoreCompileInputs.cache
+C:\EstudoCSharp\QuartoDesafio\Desafio\obj\Debug\net7.0\Desafio.dll
+C:\EstudoCSharp\QuartoDesafio\Desafio\obj\Debug\net7.0\refint\Desafio.dll
+C:\EstudoCSharp\QuartoDesafio\Desafio\obj\Debug\net7.0\Desafio.pdb
+C:\EstudoCSharp\QuartoDesafio\Desafio\obj\Debug\net7.0\Desafio.genruntimeconfig.cache
+C:\EstudoCSharp\QuartoDesafio\Desafio\obj\Debug\net7.0\ref\Desafio.dll
